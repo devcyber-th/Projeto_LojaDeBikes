@@ -25,3 +25,7 @@
 @import "seguros/vantagens.css";
 @import "seguros/perguntas.css";
 
+/* Bicicleta */
+@import "bicicleta/bicicleta.css";
+@import "bicicleta/seguro.css";
+
